@@ -1,4 +1,3 @@
 So far:
-A1 and A2 are complete and polished
-
-Also we need to agree on what we are doing for part B
+Section A is complete
+Task B2 was selected for section B
