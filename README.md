@@ -9,6 +9,7 @@ group presentation(first draft):
 - task A4 (*)(Jack)
 - task B2 (*)(Leon)
 - end with talk about how well we worked as a group and what methods we used to collaborate and stay organised (Jack)
+- After the presentation there are 10 mins of Q&A, for which we all need to be prepared for
 
 (*)
 - explain the task
