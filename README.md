@@ -1,6 +1,6 @@
 Section A is complete. Working on task B2
 
-group presentation(first draft):
+group presentation:
 
 - introduction (give an overview of the structure of the presentation, explain what topic we chose and why, explain what machine learning is as a concept)(Leon)
 - task A1 (*)(Alex)
